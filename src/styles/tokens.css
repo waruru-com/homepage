@@ -1,0 +1,19 @@
+:root {
+  --bg: #141322;
+  --surface: #1e1b30;
+  --elevated: #28243f;
+  --signup-bg: #201b30;
+  --input-bg: #201c32;
+  --text: #fff5ff;
+  --muted: #c5bdd1;
+  --subtle: #a79eb6;
+  --border: rgba(223, 196, 255, 0.18);
+  --lilac: #dfb3fb;
+  --rose: #ffc4d8;
+  --rose-hover: #ffd6e4;
+  --accent-ink: #291b35;
+  --error: #ffb2bd;
+  --note-paper: #f6e7ef;
+  --note-ink: #544052;
+  --note-muted: #796378;
+}
